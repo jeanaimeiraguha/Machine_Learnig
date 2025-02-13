@@ -44,6 +44,16 @@ The following technologies have been used in the machine learning projects:
 - TensorFlow / Keras
 - Jupyter Notebooks
 
+ ## Creating Environment
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+## installation Of dependencies
+
+
+pip install -r requirements.txt
+
 ## Setup and Installation
 
 To get started with any of the projects in this repository, follow these steps:
